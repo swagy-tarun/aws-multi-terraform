@@ -26,7 +26,7 @@ terraform.rc
 .env
 .env.*
 
-environment/network/prod/terraform.tfstate
-environment/network/prod/.terraform
-environment/network/prod/.terraform.lock.hcl
+environments/network/prod/terraform.tfstate
+environments/network/prod/.terraform
+environments/network/prod/.terraform.lock.hcl
 
